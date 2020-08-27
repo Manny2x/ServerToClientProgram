@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52dbbe3b-c9ab-428c-b8ff-0c3db9b6f636" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="sojs ad sa d">
+      <favorite_root url="file://$PROJECT_DIR$/src/Client.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XSLT Stylesheet" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1eSHLuwHOFqVjmQX49vwt1KbkJr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.TextEchoChar">
+    <configuration name="Buttons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Buttons" />
+      <module name="ServerToClientProgram" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckboxDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CheckboxDemo" />
+      <module name="ServerToClientProgram" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultipleSelections" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultipleSelections" />
+      <module name="ServerToClientProgram" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScrollBarDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ScrollBarDemo" />
+      <module name="ServerToClientProgram" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextEchoChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TextEchoChar" />
+      <module name="ServerToClientProgram" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Buttons" />
+      <item itemvalue="Application.CheckboxDemo" />
+      <item itemvalue="Application.MultipleSelections" />
+      <item itemvalue="Application.ScrollBarDemo" />
+      <item itemvalue="Application.TextEchoChar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TextEchoChar" />
+        <item itemvalue="Application.ScrollBarDemo" />
+        <item itemvalue="Application.MultipleSelections" />
+        <item itemvalue="Application.CheckboxDemo" />
+        <item itemvalue="Application.Buttons" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52dbbe3b-c9ab-428c-b8ff-0c3db9b6f636" name="Default Changelist" comment="" />
+      <created>1594308021908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594308021908</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="432" y="164" key="#Project_Structure" timestamp="1594314922618">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="432" y="164" key="#Project_Structure/0.0.1680.1010@0.0.1680.1010" timestamp="1594314922618" />
+    <state x="603" y="309" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594315112415">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="603" y="309" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1594315112415" />
+    <state x="645" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1595786258346">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="645" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1595786258346" />
+    <state x="620" y="271" key="FileChooserDialogImpl" timestamp="1594981235443">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="620" y="261" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1594311541589" />
+    <state x="620" y="271" key="FileChooserDialogImpl/0.0.1680.1050@0.0.1680.1050" timestamp="1594981235443" />
+    <state width="1637" height="152" key="GridCell.Tab.0.bottom" timestamp="1595945808245">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1594313272903" />
+    <state width="1637" height="152" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1595945808245" />
+    <state width="1637" height="152" key="GridCell.Tab.0.center" timestamp="1595945808245">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1594313272903" />
+    <state width="1637" height="152" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1595945808245" />
+    <state width="1637" height="152" key="GridCell.Tab.0.left" timestamp="1595945808244">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1594313272903" />
+    <state width="1637" height="152" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1595945808244" />
+    <state width="1637" height="152" key="GridCell.Tab.0.right" timestamp="1595945808245">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1637" height="272" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1594313272903" />
+    <state width="1637" height="152" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1595945808245" />
+    <state x="541" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1595779642529">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="541" y="330" key="com.intellij.ide.util.TipDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1594308036137" />
+    <state x="541" y="343" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1595779642529" />
+    <state x="222" y="146" key="new project wizard" timestamp="1596027791673">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="222" y="146" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1596027791673" />
+    <state x="496" y="243" key="run.anything.popup" timestamp="1594391440684">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="496" y="243" key="run.anything.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1594391440684" />
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1594311831960">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1594311831960" />
+  </component>
+</project>

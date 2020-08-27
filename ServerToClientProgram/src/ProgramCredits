@@ -1,0 +1,8 @@
+By Emmanuel Okafor July 09/07/2020
+CC Emmanuel Okafor
+
+A Java program used to create a file with both the name and contents specified by the user.
+152 lines of code in total. 55 lines in the Client. 107 lines in the Server
+
+Used NIO, IO, Sockets, ServerSockets and java.net
+Tried to improve on: Documentation, speed on client.println
